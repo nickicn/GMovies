@@ -3,6 +3,7 @@ git config --global user.email nicolelopes0008@gmail.com
 
 cd GMovies
 npm i
+npx expo start --localhost --android 
 
 
 Criar o projeto
